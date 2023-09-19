@@ -128,7 +128,7 @@ int seek(int tab[], int posMin, int posMax, int val)
         return a;
 }
 
-
+//main
 int main()
 {   
 
