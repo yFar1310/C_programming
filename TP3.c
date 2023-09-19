@@ -7,7 +7,8 @@ void affTab(int* tab, int n)
         printf("%d ", tab[i]);
     }
   printf("\n");
-}
+} 
+
 void test()
 {
     int t[] = {2,3,7,11,19};
