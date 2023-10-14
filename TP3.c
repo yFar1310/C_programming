@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<iostream.h>
 #include <stdlib.h>
 void affTab(int* tab, int n)
 {
